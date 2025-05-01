@@ -59,6 +59,26 @@ This area has the highest concentration of people and vehicles which would expla
 the longer delay times.							
 							
 
+## Is there a correlation between specific days of the week and the frequency of breakdowns or delays?						
+![image](https://github.com/user-attachments/assets/ba8ab132-0689-4f86-95d0-c06819cc7172)
+
+-Findings:					
+	2-Monday , 3 -Tuesday , 4 - Wednesday ,5 - Thursday ,6 - Friday						
+	We see spikes in delays on Monday and a drop on Friday.						
+							
+-Since majority of delays are caused by traffic as shown by graphs above						
+	We can assume that drop in delays on Friday are caused by less people						
+	driving or going to work.		
+
+
+
+
+ Note - Couldnt upload the whole file as the dataset was very large. Dataset and project was part of Excel Data Analysis course - Analyst Builder by Alex Freberg. Dataset 
+ was obtained from NYC Transportation website.
+							
+
+
+
 
 
 						
