@@ -10,6 +10,14 @@ failures.
 						
 - Potential solution - Bus servicing and repairs should be done on 						
 a more frequent basis, maybe weekly or monthly in order to reduce						
-the frequency of mechanical failures						
-![image](https://github.com/user-attachments/assets/0965845a-54f2-4a89-a74a-99e5ede4fb6c)
+the frequency of mechanical failure. M
+
+- Most common reason for buses running late is due to Heavy						
+traffic.  "Running late" constitutes 93.5% of the reason for delays 						
+						
+- Potential solution - Pick up school children during times when traffic 						
+is low or search for alternate route where traffic density is lesser.						
+
+
+
 
