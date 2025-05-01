@@ -1,5 +1,5 @@
 # Projects-2-Excel-SQL
-Data Analysis and exploration using Excel and SQL
+Data Analysis and exploration using Excel - NYC Bus Transportation system analysis
 
 ## What are the most common reasons for delays and breakdowns
 ![image](https://github.com/user-attachments/assets/0278cc79-5738-4ea8-8c5a-d74cda73f5f3)
@@ -16,7 +16,44 @@ the frequency of mechanical failure. M
 traffic.  "Running late" constitutes 93.5% of the reason for delays 						
 						
 - Potential solution - Pick up school children during times when traffic 						
-is low or search for alternate route where traffic density is lesser.						
+is low or search for alternate route where traffic density is lesser.
+
+## How do delay times vary by bus company and borough?	
+![image](https://github.com/user-attachments/assets/e4737db4-4b73-4f26-839c-de40d009819f)
+
+The above graph represents the number of incidents involving delays per bus company 								
+The higher the number of incidents, the more the cause for concern .								
+								
+								
+Conclusion: Investigate these bus services to find out the reason for the 								
+frequent breakdowns or latenesses and advise accordingly or fire.								
+								
+Check the frequency of runs by these buses. Also, a bus service having higher frequency								
+of incidents doesn’t necessarily indicate that their delay time is high for most cases as well.								
+This will need to be further investigated.	
+
+![image](https://github.com/user-attachments/assets/e98b05ca-5a50-4667-8b49-f4446c67ba44)
+
+								
+-The above graph shows the top ten bus services that have the highest average 									
+delay time in a span of 5 years	 of the last few years. 		. 						
+									
+-Should be compared to number of delays , boroughs  and total number of trips.									
+									
+-Pride Transportation raises a red flag. If you look at the left graph, the number of incidents 									
+involving delays for Pride is in the top 10, and if you look at the above graph, the bus service is in the top 3 									
+-in terms of delay time as well. Higher frequency and higher delay times for this company is not 									
+a good sign and needs to be investigated.									
+
+
+
+
+
+
+
+
+
+
 
 
 
