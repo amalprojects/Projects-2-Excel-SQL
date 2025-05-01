@@ -1,4 +1,4 @@
-# Projects-2-Excel-SQL
+# Projects-2-Excel
 Data Analysis and exploration using Excel - NYC Bus Transportation system analysis
 
 ## What are the most common reasons for delays and breakdowns
