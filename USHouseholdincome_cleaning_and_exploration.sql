@@ -1,3 +1,8 @@
+-- US household income government data. Data cleaning and EDA done using SQL. EDA was done to understand land and water distribution
+-- in different US states and income distribution across different US states.
+-- 
+
+
 -- QUERY TO FIND OUT DUPLICATES IN THE USHOUSEHOLDINCOME TABLE
 SELECT id, COUNT(id) FROM ushouseholdincome 
 GROUP BY id
